@@ -1,8 +1,8 @@
-**Terms and Service for Foxogram**
+**Terms of Service for Foxogram**
 
 **Effective Date:** 05/12/2024
 
-Welcome to Foxogram, a new generation open-source messenger. By accessing or using our website at https://foxogram.su/ (the "Site") and the services provided through it (collectively, the "Services"), you agree to comply with and be bound by the following terms and conditions ("Terms"). If you do not agree to these Terms, please do not use our Services.
+Welcome to Foxogram, a new generation open-source messenger. By accessing or using our website at https://foxogram.su/ (the "Site") and the services provided through it (collectively, the "Services"), you agree to comply with and be bound by the following terms or service ("Terms"). If you do not agree to these Terms, please do not use our Services.
 
 1. **Acceptance of Terms**
    By using the Site and the Services, you affirm that you are of legal age to enter into these Terms or have obtained parental or guardian consent. If you are using the Services on behalf of an organization, you represent and warrant that you have the authority to bind that organization to these Terms.
@@ -40,6 +40,6 @@ Welcome to Foxogram, a new generation open-source messenger. By accessing or usi
 12. **Contact Information**
     If you have any questions about these Terms, please contact us at *legal@foxogram.su*.
 
-By using the Site and the Services, you acknowledge that you have read, understood, and agree to be bound by these Terms and Conditions.
+By using the Site and the Services, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service.
 
 **Last Updated:** 05/12/2024
